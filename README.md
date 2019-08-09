@@ -7,7 +7,7 @@ Tkinter
 Python
 # Files
 Text file with 60 "Never have I ever..." statements.
-Python code with Tkinter
+Python code with Tkinter and
 Python code for executing app in Python shell
 # Description
 Program choose random statements every time.
