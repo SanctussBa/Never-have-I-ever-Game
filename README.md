@@ -1,5 +1,4 @@
-# Never-have-I-ever-Game
-Simple "Never have I ever" quiz game
+#"Never have I ever" quiz game
 
 GUI - Tkinter
 Language - Python
